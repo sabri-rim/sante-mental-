@@ -1,4 +1,4 @@
-# sante-mental-
+# sante-mental
 
 La data set  provient d'une enquête de 2014 qui mesure les attitudes envers la santé mentale et la fréquence des troubles de santé mentale sur le lieu de travail technologique. 
 
