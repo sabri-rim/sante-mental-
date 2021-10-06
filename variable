@@ -1,50 +1,53 @@
-#Timestamp
-#Age
-#Gender
-#Country
-#state:
-Si vous habitez aux États-Unis, dans quel État ou territoire habitez-vous ?
-#self_employed: 
-Êtes-vous travailleur indépendant 
-#family_history: 
-Avez-vous des antécédents familiaux de maladie mentale ? 
-#treatment: 
-Avez-vous recherché un traitement pour un problème de santé mentale?
-#work_interfere: 
-Si vous avez un problème de santé mentale, pensez-vous que cela interfère avec votre travail ?
-#no_employees: 
-Combien d'employés votre entreprise ou organisation compte-t-elle ?
+Timestamp
 
-remote_work: Do you work remotely (outside of an office) at least 50% of the time?
+Age
 
-tech_company: Is your employer primarily a tech company/organization?
+Gender
 
-benefits: Does your employer provide mental health benefits?
+Country
 
-care_options: Do you know the options for mental health care your employer provides?
+state: Si vous habitez aux États-Unis, dans quel État ou territoire habitez-vous ?
 
-wellness_program: Has your employer ever discussed mental health as part of an employee wellness program?
+self_employed: Êtes-vous travailleur indépendant 
 
-seek_help: Does your employer provide resources to learn more about mental health issues and how to seek help?
+family_history: Avez-vous des antécédents familiaux de maladie mentale ? 
 
-anonymity: Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?
+treatment: Avez-vous recherché un traitement pour un problème de santé mentale?
 
-leave: How easy is it for you to take medical leave for a mental health condition?
+work_interfere: Si vous avez un problème de santé mentale, pensez-vous que cela interfère avec votre travail ?
 
-mentalhealthconsequence: Do you think that discussing a mental health issue with your employer would have negative consequences?
+no_employees: Combien d'employés votre entreprise ou organisation compte-t-elle ?
 
-physhealthconsequence: Do you think that discussing a physical health issue with your employer would have negative consequences?
+remote_work: Travaillez -vous à distance (hors bureau) au moins 50% du temps ?
 
-coworkers: Would you be willing to discuss a mental health issue with your coworkers?
+tech_company: Votre employeur est-il principalement une entreprise/une organisation de technologie ?
 
-supervisor: Would you be willing to discuss a mental health issue with your direct supervisor(s)?
+benefits:  Votre employeur offre-t-il des avantages sociaux pour la santé mentale?
 
-mentalhealthinterview: Would you bring up a mental health issue with a potential employer in an interview?
+care_options: Connaissez-vous les options de soins de santé mentale offertes par votre employeur ?
 
-physhealthinterview: Would you bring up a physical health issue with a potential employer in an interview?
+wellness_program: Votre employeur a-t-il déjà discuté de la santé mentale dans le cadre d'un programme de bien-être des employés ?
 
-mentalvsphysical: Do you feel that your employer takes mental health as seriously as physical health?
+seek_help: Votre employeur fournit-il des ressources pour en savoir plus sur les problèmes de santé mentale et sur la façon de demander de l'aide ?
 
-obs_consequence: Have you heard of or observed negative consequences for coworkers with mental health conditions in your workplace?
+anonymity: Votre anonymat est-il protégé si vous choisissez de profiter des ressources de traitement de la santé mentale ou de la toxicomanie ?
 
-comments: Any additional notes or comments
+leave: est-il facile pour vous de prendre un congé médical pour un problème de santé mentale ?
+
+mentalhealthconsequence: Pensez-vous que discuter d'un problème de santé mentale avec votre employeur aurait des conséquences négatives ?
+
+physhealthconsequence: Pensez - vous que discuter d' un problème de santé physique avec votre employeur aurait des conséquences négatives?
+
+coworkers: Seriez-vous prêt à discuter d'un problème de santé mentale avec vos collègues ?
+
+supervisor: Seriez-vous prêt à discuter d'un problème de santé mentale avec votre (vos) superviseur(s) direct(s) ?
+
+mentalhealthinterview: Souhaitez-vous évoquer un problème de santé mentale avec un employeur potentiel lors d'un entretien ?
+
+physhealthinterview: apporteriez - vous un problème de santé physique avec un employeur potentiel dans une interview?
+
+mentalvsphysical: Pensez-vous que votre employeur prend la santé mentale aussi au sérieux que la santé physique ?
+
+obs_consequence: Avez-vous entendu parler ou observé des conséquences négatives pour des collègues souffrant de troubles mentaux sur votre lieu de travail ?
+
+comments: Toute note ou commentaire supplémentaire
