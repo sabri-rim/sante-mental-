@@ -64,6 +64,22 @@ mentalvsphysical: Pensez-vous que votre employeur prend la santé mentale aussi 
 obs_consequence: Avez-vous entendu parler ou observé des conséquences négatives pour des collègues souffrant de troubles mentaux sur votre lieu de travail ?
 
 comments: Toute note ou commentaire supplémentaire
+Exemple d'application :
+la taille de l'entreprise affecte-t-elle la santé mentale des employés ? Si le nombre d'employés est important, cela signifie-t-il que la concurrence est plus forte que les petites entreprises et que les employés sont plus susceptibles d'avoir des problèmes de santé mentale ?
+
+
+
+![image](https://user-images.githubusercontent.com/73078692/136445078-ef62e2a3-d89c-40ce-a527-0123ca408fe3.png)
+
+
+
+
+Cette variable est catégorique ; il y a six groupes.
+
+Chaque groupe représente la plage de nombre d'employés dans une entreprise ou une organisation.
+
+Le graphique à barres peut faciliter la comparaison entre ces groupes. Je sais que les petites entreprises de moins de 100 personnes et les grandes entreprises de plus de 1 000 personnes représentent une proportion relativement élevée. De plus, la plupart des groupes montrent que le nombre d'employés qui ont demandé des soins de santé mentale est plus élevé que celui des employés qui n'en ont pas demandé.
+
 
 
 
