@@ -2,8 +2,10 @@
 
 La data set  provient d'une enquête de 2014 qui mesure les attitudes envers la santé mentale et la fréquence des troubles de santé mentale sur le lieu de travail technologique. 
 
-Questions à explorer :
+# Questions à explorer :
+
 Comment la fréquence des maladies mentales et les attitudes envers la santé mentale varient-elles selon l'emplacement géographique ?
+
 Quels sont les prédicteurs les plus forts de la maladie mentale ou de certaines attitudes envers la santé mentale en milieu de travail?
 
 # Comment ces données seront-elles utilisées ?
