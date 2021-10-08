@@ -67,7 +67,11 @@ comments: Toute note ou commentaire supplémentaire
 
 
 Exemple d'application :
-la taille de l'entreprise affecte-t-elle la santé mentale des employés ? Si le nombre d'employés est important, cela signifie-t-il que la concurrence est plus forte que les petites entreprises et que les employés sont plus susceptibles d'avoir des problèmes de santé mentale ?
+
+
+la taille de l'entreprise affecte-t-elle la santé mentale des employés ? 
+
+Si le nombre d'employés est important, cela signifie-t-il que la concurrence est plus forte que les petites entreprises et que les employés sont plus susceptibles d'avoir des problèmes de santé mentale ?
 
 
 
