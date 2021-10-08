@@ -11,7 +11,7 @@ evaluation de la manière dont la santé mentale est perçue sur le lieu de trav
 le traitement de ces donnée peut faire l'objective de sensibilisation et d'amélioration des conditions des personnes souffrant de troubles de santé mentale sur le lieu de travail informatique.
 
 # Variables 
-Timestamp
+
 
 Age
 
